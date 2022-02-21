@@ -1,0 +1,9 @@
+{
+    "username": "mevinngugi@gmail.com",
+    "password": "#Beyonic@Test.22",
+    "homepage_url": "https://www.beyonic.com/",
+    "login_page_url": "https://payments.beyonic.com/users/login/",
+    "otp_url": "https://payments.beyonic.com/users/verify-phonenumber/",
+    "browser": "Headless Chrome",
+    "implicit_wait": 10
+}
